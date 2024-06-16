@@ -2,7 +2,7 @@
 
 ## Download and Unzip the Data
 
-First, download the images from Google Drive and unzip the folder.
+First, download the images from Google Drive https://drive.google.com/file/d/1JKdwNPaRaviFvbJFEm4zBkf_dJdYxFK9/view?usp=sharing and unzip the folder.
 
 ## Using the WildlifeDataset Class
 
